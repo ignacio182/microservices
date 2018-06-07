@@ -1,0 +1,6 @@
+com\microservices\geolocation\GeoLocation.class
+com\microservices\geolocation\GeoLocationService.class
+com\microservices\geolocation\GeoLocationServiceImpl.class
+com\microservices\geolocation\GeoLocationRepository.class
+com\microservices\geolocation\GeoLocationApplication.class
+com\microservices\geolocation\GeoLocationController.class
